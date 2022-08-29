@@ -49,28 +49,21 @@ function Details() {
       <div className="breakdown">
         <p className="noto">COUNTRY DATA BREAKDOWN</p>
       </div>
-      <div className="imagedetails">
+      <div className="imagedetail">
         <p className="noto">NAME</p>
         <p className="card-text">
           {countries[index].name.common}
         </p>
 
       </div>
-      <div className="imagedetails breakdown">
-        <p className="noto">ALT NAME</p>
-        <p className="card-text">
-          {countries[index].altSpellings.toLocaleString()}
-        </p>
-
-      </div>
-      <div className="imagedetails">
+      <div className="imagedetail">
         <p className="noto">POPULATION</p>
         <p className="card-text">
           {countries[index].area.toLocaleString()}
         </p>
 
       </div>
-      <div className="imagedetails breakdown">
+      <div className="imagedetail">
         <p className="noto">CAPITAL CITY</p>
         <p className="card-text">
           {countries[index].capital}
@@ -78,7 +71,7 @@ function Details() {
         </p>
 
       </div>
-      <div className="imagedetails">
+      <div className="imagedetail">
         <p className="noto">AREA</p>
         <p className="card-text">
           {countries[index].continents}

@@ -48,7 +48,7 @@ function Countries() {
         <input
           type="text"
           className="form-control"
-          placeholder="search country"
+          placeholder="Search Country"
           onChange={handleChange}
           value={search}
         />
@@ -56,7 +56,7 @@ function Countries() {
           Search
         </button>
         <button className="btn btn-light" onClick={showAll} type="button">
-          SEE ALL COUNTRIES
+          See All Countries
         </button>
       </div>
       <div className="all-countries">{renderCountry}</div>
