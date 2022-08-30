@@ -17,11 +17,11 @@ This is a react web app where users can look up and see details about countries 
 
 ## Live Demo 
 
-[COMING SOON!]()
+[Country App](https://stupendous-klepon-6b06f0.netlify.app)
 
 ## Demo Video
 
-[Demo Video]()
+[Demo Video](https://www.loom.com/share/e73e6a5df5b2463db165293bcf33346f)
 
 ## Getting Started
 - Clone repository in your local machine
