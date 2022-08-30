@@ -17,11 +17,11 @@ This is a react web app where users can look up and see details about countries 
 
 ## Live Demo 
 
-[COMING SOON!]()
+[Country App](https://stupendous-klepon-6b06f0.netlify.app)
 
 ## Demo Video
 
-[Demo Video]()
+[Demo Video](https://www.loom.com/share/edd9b0424e4c4783b06775bbc328d8f9)
 
 ## Getting Started
 - Clone repository in your local machine
@@ -48,7 +48,7 @@ Give a ⭐️ to if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to Nelson Sakwa on Behance.
+- Hat tip [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), as required by the [Creative Commons License](https://creativecommons.org/licenses/). 
 - Microverse
 - Coding partner
 - Code reviewer
